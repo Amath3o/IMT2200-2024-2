@@ -1,0 +1,50 @@
+{
+  "departments": [
+    {
+      "department": "Matemáticas",
+      "research_lines": "Álgebra"
+    },
+
+    {
+        "department": "Matemáticas",
+        "research_lines":  "Cálculo"
+      },
+
+    {
+      "department": "Ingeniería",
+      "research_lines":  "Redes"
+    },
+
+    {
+        "department": "Ingeniería",
+        "research_lines": "Robótica"
+      },
+    {
+      "department": "Ciencias Sociales",
+      "research_lines": "Sociología"
+    },
+
+    {
+        "department": "Ciencias Sociales",
+        "research_lines":  "Economía"
+      }
+  ],
+  "professors": [
+    {
+      "professor": "Dr. Pérez",
+      "department": "Matemáticas"
+    },
+    {
+      "professor": "Dra. Gómez",
+      "department": "Ingeniería"
+    },
+    {
+      "professor": "Dr. Rodríguez",
+      "department": "Ingeniería"
+    },
+    {
+      "professor": "Dra. Fernández",
+      "department": "Ciencias Sociales"
+    }
+  ]
+}

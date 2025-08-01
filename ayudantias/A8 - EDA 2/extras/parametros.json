@@ -1,0 +1,70 @@
+{
+    "PATH": [
+        ["raw_data","20210906_Dotacion_docente_2022_20220630_PUBL.csv"],
+        ["raw_data","A_INSCRITOS_PUNTAJES_2023_PAES_PUB_MRUN.csv"],
+        ["raw_data","B_SOCIOECONOMICO_DOMICILIO_2023_PAES_PUB_MRUN.csv"],
+        ["raw_data", "D_MATRICULA_2023_PAES_MRUN.csv"],
+        ["raw_data", "20221013_Resumen_Matricula_EE_Oficial_2022_20220430_WEB.csv"],
+        ["raw_data", "20220914_Directorio_Oficial_EE_2022_20220430_WEB.csv"],
+        ["raw_data", "C_POSTULANTES_SELECCION_2023_PAES_PUB_MRUN.csv"]],
+    "NOM": [
+        "dotacion_docente_2023",
+        "inscritos_puntajes_2023",
+        "socioeconomico_domicilio_2023",
+        "matricula_2023",
+        "matricula_EE_2022",
+        "directorio_EE_2022",
+        "puntajes_seleccion_2023"
+    ],
+    "VAR1": [
+        "MRUN",
+        "RBD",
+        "SEXO",
+        "DEPENDENCIA",
+        "CODIGO_REGION_DOMICILIO",
+        "CODIGO_COMUNA_EGRESO",
+        "INGRESO_PERCAPITA_GRUPO_FA",
+        "CONEXION_INSUFICIENTE",
+        "PROMEDIO_NOTAS",
+        "PTJE_NEM",
+        "PTJE_RANKING",
+        "CLEC_MAX",
+        "MATE1_MAX"
+    ],
+    "VAR2": [
+        "MRUN",
+        "SEXO",
+        "DEPENDENCIA",
+        "CODIGO_REGION_DOMICILIO",
+        "CODIGO_COMUNA_EGRESO",
+        "INGRESO_PERCAPITA_GRUPO_FA",
+        "PROMEDIO_NOTAS",
+        "PTJE_NEM",
+        "PTJE_RANKING",
+        "CLEC_MAX",
+        "MATE1_MAX",
+        "CODIGO_CARRERA",
+        "NOMBRE_INSTITUCION",
+        "VIA_ADMISION"
+    ],
+    "REGIONES": {
+        "1": "Tarapacá",
+        "2": "Antofagasta",
+        "3": "Atacama",
+        "4": "Coquimbo",
+        "5": "Valparaíso",
+        "6": "O Higgins",
+        "7": "Maule",
+        "8": "Biobío",
+        "9": "La Araucanía",
+        "10": "Los Lagos",
+        "11": "Aysén del G. Carlos Ibáñez del Campo",
+        "12": "Magallanes y de la Antártica Chilena",
+        "13": "Metropolitana de Santiago",
+        "14": "Los Ríos",
+        "15": "Arica y Parinacota",
+        "16": "Ñuble"
+    }
+}
+
+

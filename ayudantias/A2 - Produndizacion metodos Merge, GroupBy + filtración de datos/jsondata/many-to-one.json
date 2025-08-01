@@ -1,0 +1,63 @@
+{
+    "videojuegos": [
+      {
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "año_lanzamiento": 2017,
+        "genero": "Aventura",
+        "plataforma": "Nintendo Switch",
+        "desarrollador_id": 1,
+        "franquicia_id": 1
+      },
+      {
+        "titulo": "The Legend of Zelda: Ocarina of Time",
+        "año_lanzamiento": 1998,
+        "genero": "Aventura",
+        "plataforma": "Nintendo 64",
+        "desarrollador_id": 1,
+        "franquicia_id": 1
+      },
+      {
+        "titulo": "God of War",
+        "año_lanzamiento": 2018,
+        "genero": "Acción",
+        "plataforma": "PlayStation 4",
+        "desarrollador_id": 2,
+        "franquicia_id": 2
+      },
+      {
+        "titulo": "God of War III",
+        "año_lanzamiento": 2010,
+        "genero": "Acción",
+        "plataforma": "PlayStation 3",
+        "desarrollador_id": 2,
+        "franquicia_id": 2
+      }
+    ],
+    "desarrolladores": [
+      {
+        "desarrollador_id": 1,
+        "nombre": "Nintendo",
+        "pais": "Japón",
+        "fundacion": 1889
+      },
+      {
+        "desarrollador_id": 2,
+        "nombre": "Santa Monica Studio",
+        "pais": "Estados Unidos",
+        "fundacion": 1999
+      }
+    ],
+    "franquicias": [
+      {
+        "franquicia_id": 1,
+        "nombre": "The Legend of Zelda",
+        "numero_juegos": 19
+      },
+      {
+        "franquicia_id": 2,
+        "nombre": "God of War",
+        "numero_juegos": 8
+      }
+    ]
+  }
+  

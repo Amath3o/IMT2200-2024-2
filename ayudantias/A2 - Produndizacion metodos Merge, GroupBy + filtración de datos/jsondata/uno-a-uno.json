@@ -1,0 +1,60 @@
+{
+  "videojuegos": [
+    {
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "anio_lanzamiento": 2017,
+      "genero": "Aventura",
+      "plataforma": "Nintendo Switch",
+      "desarrollador_id": 1
+    },
+    {
+      "titulo": "God of War",
+      "anio_lanzamiento": 2018,
+      "genero": "Acción",
+      "plataforma": "PlayStation 4",
+      "desarrollador_id": 2
+    },
+    {
+      "titulo": "Red Dead Redemption 2",
+      "anio_lanzamiento": 2018,
+      "genero": "Aventura",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "desarrollador_id": 3
+    },
+    {
+      "titulo": "Cyberpunk 2077",
+      "anio_lanzamiento": 2020,
+      "genero": "RPG",
+      "plataforma": "PlayStation 4, Xbox One, PC",
+      "desarrollador_id": 4
+    }
+  ],
+  "desarrolladores": [
+    {
+      "desarrollador_id": 1,
+      "nombre": "Nintendo",
+      "pais": "Japón",
+      "fundacion": 1889
+    },
+    {
+      "desarrollador_id": 2,
+      "nombre": "Santa Monica Studio",
+      "pais": "Estados Unidos",
+      "fundacion": 1999
+    },
+    {
+      "desarrollador_id": 3,
+      "nombre": "Rockstar Games",
+      "pais": "Estados Unidos",
+      "fundacion": 1998
+    },
+    {
+      "desarrollador_id": 4,
+      "nombre": "CD Projekt Red",
+      "pais": "Polonia",
+      "fundacion": 2002
+    }
+  ]
+}
+
+  

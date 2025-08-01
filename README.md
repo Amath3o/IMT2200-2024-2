@@ -8,7 +8,7 @@ Acá estará disponible el material del curso tanto para las clases, como para l
 
 ## Actualizaciones
 
-Este repositorio se actualizará al menos semanalmente agregando el material a usar durante la clase y, posteriormente a ella, el material actualizado. Configuren sus notificaciones para que reciban un aviso cada vez que esto ocurra.
+Este repositorio se actualizaba al menos semanalmente agregando el material a usar durante la clase y, posteriormente a ella, el material actualizado. Configuren sus notificaciones para que reciban un aviso cada vez que esto ocurra.
 
 ---
 License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
